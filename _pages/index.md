@@ -16,4 +16,4 @@ This is the Real Blockchain.
 
 #### Monday, February 21, 2022
 
-- https://twitter.com/DeItaone/status/1494741102016053259?s=20&t=Q6opOhZwyLjFxC75OVTseA
+https://twitter.com/DeItaone/status/1494741102016053259
