@@ -11,9 +11,12 @@ This is the Real Blockchain, notes and thoughts on everything going on in the wo
 
 ## Timeline
 
+#### Wednesday, February 23, 2022
+- 1Password Adds 1-Click Credential Storage for Solana-Based Phantom Wallet Users
+
 #### Tuesday, February 22, 2022
 - Bitcoin drops to ~$37k with Russian/Ukraine Standoff
 
 #### Monday, February 21, 2022
 
-https://twitter.com/DeItaone/status/1494741102016053259
+- BRAINARD: CENTRAL BANK DIGITAL CURRENCY COULD BE ATTRACTIVE AS A STORE OF VALUE, MEANS OF PAYMENT IF SEEN AS SAFE
