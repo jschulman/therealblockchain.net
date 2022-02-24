@@ -11,8 +11,12 @@ permalink: /
 
 ## Timeline
 
+#### Thursday, February 24, 2022
+- Russia invades Ukraine and Bitcoin drops to ~$35k.
+
 #### Wednesday, February 23, 2022
 - 1Password Adds 1-Click Credential Storage for Solana-Based Phantom Wallet Users
+- “Golden Friend” from the highly hardcore super mega hyped Invisible Friends project just sold at auction for 496.69 ETH ($1.3M USD) with 100% of the proceeds going to charity.
 
 #### Tuesday, February 22, 2022
 - Bitcoin drops to ~$37k with Russian/Ukraine Standoff
