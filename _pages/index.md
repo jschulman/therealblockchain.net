@@ -15,7 +15,7 @@ permalink: /
 - EBay is studying the possibility of adding cryptocurrencies as possible means of payment.
 
 #### Saturday, February 26, 2022
-https://twitter.com/Ukraine/status/1497594592438497282?s=20&t=AaFO-NS0LfSAPl4hp_mgIw
+https://twitter.com/Ukraine/status/1497594592438497282
 
 #### Friday, February 25, 2022
 - Bitcoin Donations To Ukrainian Army Surpass $4 Million
