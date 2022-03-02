@@ -10,7 +10,11 @@ permalink: /
 >This is the Real Blockchain, notes and thoughts on everything going on in the world of blockchain, digital assets, Web3 and whatever else you'd add in.  The idea of this site isn't that any one bullet is impactful but that if we take a step back and watch the entire blockchain movement over weeks, months and years, you can see the movement much better.
 
 ## Timeline
-#### Tuesday, February 28, 2022
+#### Wednesday, March 2, 2022
+- POWELL: THERE NEEDS TO BE CONGRESSIONAL ACTION ON CRYPTOCURRENCIES
+- EU STUDYING WHETHER CRYPTOASSETS ARE BEING USED TO BUST SANCTIONS ON RUSSIA
+
+#### Tuesday, March 1, 2022
 - WoW #5672 just sold for 567,000 GBP at @ChristiesInc London Evening Sale! 🤩
 - BREAKING: Visa and Mastercard have blocked Russian banks.
 https://twitter.com/jchervinsky/status/1498768297151578112
