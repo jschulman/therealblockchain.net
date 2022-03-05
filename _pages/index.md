@@ -10,6 +10,9 @@ permalink: /
 >This is the Real Blockchain, notes and thoughts on everything going on in the world of blockchain, digital assets, Web3 and whatever else you'd add in.  The idea of this site isn't that any one bullet is impactful but that if we take a step back and watch the entire blockchain movement over weeks, months and years, you can see the movement much better.
 
 ## Timeline
+#### Friday, March 4, 2022
+- Ukraine government raised $36.1M worth of cryptocurrencies from 86,648 donators through today.
+
 #### Thursday, March 3, 2022
 - POWELL: NEED STRONG REGULATORY REGIME FOR CRYPTO
 - Metamask has blocked #Ethereum transactions in Venezuela citing compliance with laws.
