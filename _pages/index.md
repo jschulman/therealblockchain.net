@@ -10,6 +10,15 @@ permalink: /
 >This is the Real Blockchain, notes and thoughts on everything going on in the world of blockchain, digital assets, Web3 and whatever else you'd add in.  The idea of this site isn't that any one bullet is impactful but that if we take a step back and watch the entire blockchain movement over weeks, months and years, you can see the movement much better.
 
 ## Timeline
+#### Tuesday, March 8, 2022
+- Visa CEO Al Kelly says crypto is still finding its role in the global economy.
+- @SenWarren is preparing a bill to make it more difficult for entities to use cryptocurrency to circumvent economic sanctions.  
+https://twitter.com/BoredApeYC/status/1501333629804244993
+
+#### Monday, March 7, 2022
+- BINANCE - ANNOUNCED LAUNCH OF BIFINITY, A PAYMENTS TECHNOLOGY COMPANY AND ITS OFFICIAL FIAT-TO-CRYPTO PAYMENTS PROVIDER
+- BIDEN TO SIGN CRYPTO ORDER AS INDUSTRY FACES SANCTIONS PRESSURE
+
 #### Friday, March 4, 2022
 - Ukraine government raised $36.1M worth of cryptocurrencies from 86,648 donators through today.
 
