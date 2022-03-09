@@ -10,6 +10,10 @@ permalink: /
 >This is the Real Blockchain, notes and thoughts on everything going on in the world of blockchain, digital assets, Web3 and whatever else you'd add in.  The idea of this site isn't that any one bullet is impactful but that if we take a step back and watch the entire blockchain movement over weeks, months and years, you can see the movement much better.
 
 ## Timeline
+#### Wednesday, March 9, 2022
+- U.S. PRESIDENT BIDEN SIGNS EXECUTIVE ORDER ON ASSESSING RISKS AND BENEFITS OF DIGITAL ASSETS
+- VanEck Launches Digital Assets Mining ETF, Providing Access to the Builders of the Blockchain
+
 #### Tuesday, March 8, 2022
 - Visa CEO Al Kelly says crypto is still finding its role in the global economy.
 - @SenWarren is preparing a bill to make it more difficult for entities to use cryptocurrency to circumvent economic sanctions.  
