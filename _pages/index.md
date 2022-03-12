@@ -10,6 +10,13 @@ permalink: /
 >This is the Real Blockchain, notes and thoughts on everything going on in the world of blockchain, digital assets, Web3 and whatever else you'd add in.  The idea of this site isn't that any one bullet is impactful but that if we take a step back and watch the entire blockchain movement over weeks, months and years, you can see the movement much better.
 
 ## Timeline
+#### Friday, March 11, 2022
+- U.S. SECURITIES AND EXCHANGE COMMISSION REJECTS PROPOSAL TO LIST AND TRADE SHARES OF NYDIG BITCOIN ETF
+- U.S. SEC REJECTS PROPOSAL TO LIST AND TRADE SHARES OF GLOBAL X BITCOIN TRUST
+
+#### Thursday, March 10, 2022
+- Stripe now supports crypto businesses: exchanges, on-ramps, wallets, and NFT marketplaces. Not just pay-ins but payouts, KYC and identity verification, fraud prevention, and lots more.
+
 #### Wednesday, March 9, 2022
 - U.S. PRESIDENT BIDEN SIGNS EXECUTIVE ORDER ON ASSESSING RISKS AND BENEFITS OF DIGITAL ASSETS
 - VanEck Launches Digital Assets Mining ETF, Providing Access to the Builders of the Blockchain
