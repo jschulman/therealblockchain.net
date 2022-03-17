@@ -10,10 +10,19 @@ permalink: /
 >This is the Real Blockchain, notes and thoughts on everything going on in the world of blockchain, digital assets, Web3 and whatever else you'd add in.  The idea of this site isn't that any one bullet is impactful but that if we take a step back and watch the entire blockchain movement over weeks, months and years, you can see the movement much better.
 
 ## Timeline
+#### Thursday, March 17, 2022
+- Royal Bank of India SAYS IF CRYPTOS ARE ALLOWED MOST LIKELY WILL WRECK THE CURRENCY SYSTEM, MONETARY AUTHORITY AND GOVT'S  ABILITY TO CONTROL THE ECONOMY
+- Russia’s central bank said it had given major lender Sberbank a licence to issue and exchange digital financial assets
+
+#### Wednesday, March 16, 2022
+- COINBASE INTRODUCES COINBASE PAY
+- BANK OF CANADA, M.I.T. TEAM UP ON CENTRAL BANK CRYPTO RESEARCH
+- Ukraine legalizes crypto sector as digital currency donations continue to pour in
+
 #### Tuesday, March 15, 2022
 - Ethereum Merge Takes Place on Kiln Testnet
 - ConsenSys has raised $450 million to onboard more talent and continue accelerating Web3 adoption
-- Instagram wants to integrate NFTs soon according to Mark Zuckerberg 
+- Instagram wants to integrate NFTs soon according to Mark Zuckerberg
 
 #### Monday, March 14, 2022
 - The ECON committee of the EU Parliament  voted against the de-facto POW-ban: 32 against, 24 in favor.
