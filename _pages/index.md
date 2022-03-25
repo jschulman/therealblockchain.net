@@ -10,6 +10,13 @@ permalink: /
 >This is the Real Blockchain, notes and thoughts on everything going on in the world of blockchain, digital assets, Web3 and whatever else you'd add in.  The idea of this site isn't that any one bullet is impactful but that if we take a step back and watch the entire blockchain movement over weeks, months and years, you can see the movement much better.
 
 ## Timeline
+#### Friday, March 25, 2022
+- FEDERAL RESERVE'S WALLER SAYS HE THINKS BLOCKCHAIN IS "TOTALLY OVERRATED"
+
+#### Thursday, March 24, 2022
+- Exxon Mobil is mining #Bitcoin with excess natural gas
+- RUSSIA WILL ACCEPT BITCOINS FOR OIL AND GAS, SENIOR RUSSIAN LAWMAKER SAYS
+
 #### Thursday, March 17, 2022
 - Royal Bank of India SAYS IF CRYPTOS ARE ALLOWED MOST LIKELY WILL WRECK THE CURRENCY SYSTEM, MONETARY AUTHORITY AND GOVT'S  ABILITY TO CONTROL THE ECONOMY
 - Russia’s central bank said it had given major lender Sberbank a licence to issue and exchange digital financial assets
