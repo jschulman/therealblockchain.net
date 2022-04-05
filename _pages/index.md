@@ -10,6 +10,11 @@ permalink: /
 >This is the Real Blockchain, notes and thoughts on everything going on in the world of blockchain, digital assets, Web3 and whatever else you'd add in.  The idea of this site isn't that any one bullet is impactful but that if we take a step back and watch the entire blockchain movement over weeks, months and years, you can see the movement much better.
 
 ## Timeline
+#### Monday, April 4, 2022
+- UK FINANCE MINISTRY SAYS IT INTENDS TO LEGISLATE TO BRING CERTAIN STABLECOINS, WHERE USED AS A MEANS OF PAYMENT, INTO THE REGULATORY PERIMETER
+- UK FINANCE MINISTRY SAYS CHANCELLOR HAS ASKED UK ROYAL MINT TO CREATE AN NFT, TO BE ISSUED BY THE SUMMER.
+- UK FINANCE MINISTER SUNAK SAYS IT’S MY AMBITION TO MAKE THE UK A GLOBAL HUB FOR CRYPTOASSET TECHNOLOGY
+
 #### Friday, March 25, 2022
 - FEDERAL RESERVE'S WALLER SAYS HE THINKS BLOCKCHAIN IS "TOTALLY OVERRATED"
 
